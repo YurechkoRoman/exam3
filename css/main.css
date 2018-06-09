@@ -1,0 +1,159 @@
+.container {
+	padding-bottom: 150px;
+}
+
+.top__logo {
+	position: absolute;
+	width: 79.06px;
+	height: 22px;
+	left: 310px;
+	top: 58px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 300;
+	line-height: normal;
+	font-size: 18px;
+	text-transform: uppercase;
+
+	color: #353535;
+}
+
+a:hover {
+    background: red;
+    color: #ffe;
+   }
+
+.top__logo2 {
+	position: absolute;
+	width: 74.72px;
+	height: 22px;
+	left: 516px;
+	top: 58px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 300;
+	line-height: normal;
+	font-size: 18px;
+	text-transform: uppercase;
+
+	color: #353535;
+}
+
+.top__logo3 {
+	position: absolute;
+	width: 93px;
+	height: 79px;
+	left: 754px;
+	top: 23px;
+}
+
+.top__logo4 {
+	position: absolute;
+	width: 95px;
+	height: 22px;
+	left: 1005px;
+	top: 59px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 300;
+	line-height: normal;
+	font-size: 18px;
+	text-transform: uppercase;
+
+	color: #353535;
+}
+
+.top__logo5 {
+	position: absolute;
+	width: 97.31px;
+	height: 22px;
+	left: 1195px;
+	top: 59px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 300;
+	line-height: normal;
+	font-size: 18px;
+
+	color: #353535;
+}
+
+.top__logo6 {
+	position: absolute;
+	width: 76.64px;
+	height: 22px;
+	left: 1494px;
+	top: 58px;
+}
+
+.top__logo7 {
+	position: absolute;
+	width: 824px;
+	height: 423px;
+	left: 370px;
+	top: 1019px;
+}
+
+h1 {
+	position: absolute;
+	width: 378px;
+	height: 49px;
+	left: 611px;
+	top: 1019px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 900;
+	line-height: normal;
+	font-size: 36px;
+	text-align: center;
+
+	color: #CACACA;
+}
+
+p {
+	position: absolute;
+	width: 392px;
+	height: 26px;
+	left: 603px;
+	top: 1068px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	line-height: normal;
+	font-size: 22px;
+	text-align: center;
+
+	color: #000000;
+}
+
+.top__logo7 {
+	position: absolute;
+	width: 255px;
+	height: 312px;
+	left: 370px;
+	top: 1130px;
+}
+
+.top__logo8 {
+	position: absolute;
+	width: 1182px;
+	height: 1303px;
+	left: 210px;
+	top: 1590px;
+}
+
+.top__logo9 {
+	position: absolute;
+	width: 1600px;
+	height: 200px;
+	left: 0px;
+	top: 2912px;
+
+	background: url(footer.png);
+}
